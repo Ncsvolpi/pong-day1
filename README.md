@@ -33,9 +33,11 @@ Já desenvolvo jogos utilizando Unity e Unreal Engine, mas queria aprofundar meu
 ## Controles
 
 W / S  
-↑ / ↓  
-ESC = Pause
-ENTER = Restart
+↑ / ↓
+
+ESC = Pause;
+
+ENTER = Restart;
 
 ## Projeto Online
 
